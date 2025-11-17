@@ -94,9 +94,6 @@ Para obter uma:
 
 🔗 https://www.exchangerate-api.com/
 
-Depois, substitua no código:
-
-String apiKey = "SUA_CHAVE_AQUI";
 
 📚 O que aprendi com este desafio
 
